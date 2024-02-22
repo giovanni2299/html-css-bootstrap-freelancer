@@ -25,7 +25,9 @@ header{
     height: 100px;
     background-color: red;
 }
-
+.personal-font-size{
+    font-size: 14px;
+}
 /* END FIRST-SECTION */
 /* END MAIN */
 
