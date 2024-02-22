@@ -85,6 +85,10 @@ header,footer{
     color: white;
     background-color: #1ABC9C;
 }
+.link__green{
+    color: #1ABC9C;
+    cursor: pointer;
+}
 /* END FIFTH SECTION */
 /* END MAIN */
 
@@ -118,5 +122,18 @@ header,footer{
 .button{
     border-radius: 5px;
     width: 50px;
+    cursor: pointer;
 }
-
+.circle{
+    text-align: center;
+    width: 40px;
+    line-height: 40px;
+    border: 1px solid white;
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+}
+.flex{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
