@@ -11,7 +11,7 @@ ul, ol, menu{
 }
 
 /* HEADER */
-header{
+header,footer{
     background-color: #2C3E50;
 }
 /* END HEADER */
