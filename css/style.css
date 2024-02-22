@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+img{
+    width: 100%;
+}
 ul, ol, menu{
     list-style: none;
 }
@@ -11,6 +14,20 @@ ul, ol, menu{
 header{
     background-color: #2C3E50;
 }
+/* END HEADER */
+
+/* MAIN */
+/* FIRST-SECTION */
+.bg-1ABC9C{
+    background-color: #1ABC9C;
+}
+.avatar{
+    height: 100px;
+    background-color: red;
+}
+
+/* END FIRST-SECTION */
+/* END MAIN */
 
 
 /* LAYOUT */
