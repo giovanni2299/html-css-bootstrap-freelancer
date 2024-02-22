@@ -15,6 +15,13 @@ ul, ol, menu{
 header,footer{
     background-color: #2C3E50;
 }
+
+.btn-border{
+    border: 1px solid ;
+}
+.gray{
+    color: #888888;
+}
 /* END HEADER */
 
 /* MAIN */
@@ -64,12 +71,19 @@ header,footer{
 /* END THIRD SECTION */
 
 /* FOURTH SECTION  */
-
+.text__area i{
+    display: block;
+    width: 100px;
+}
 /* END FOURT SECTION */
 
 /* FHIFTH SECTION */
 .bg-3A546D{
     background-color: #3A546D;
+}
+.btn-green{
+    color: white;
+    background-color: #1ABC9C;
 }
 /* END FIFTH SECTION */
 /* END MAIN */
@@ -100,3 +114,9 @@ header,footer{
     background-color: currentColor;
     display: inline-block;
 }
+
+.button{
+    border-radius: 5px;
+    width: 50px;
+}
+
