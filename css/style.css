@@ -46,7 +46,9 @@ header,footer{
 /* END SECOND SECTION */
 
 /* THIRD SECTION */
-
+.colum__count{
+    column-count: 2;
+}
 /* END THIRD SECTION */
 
 /* FOURTH SECTION  */
