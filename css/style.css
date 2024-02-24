@@ -34,7 +34,7 @@ header,footer{
     margin: 0 auto;
 }
 .personal-font-size{
-    font-size: 14px;
+    font-size: 15px;
 }
 /* END FIRST-SECTION */
 /* SECOND SECTION  */
@@ -49,12 +49,19 @@ header,footer{
 .colum__count{
     column-count: 2;
 }
+.green__btutton{
+    margin: auto;
+}
 /* END THIRD SECTION */
 
 /* FOURTH SECTION  */
 .text__area i{
     display: block;
     width: 100px;
+}
+
+#text__dimesion{
+    height: 200px;
 }
 /* END FOURT SECTION */
 
